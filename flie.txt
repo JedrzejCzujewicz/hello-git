@@ -1,0 +1,1 @@
+To jest plik wgrany przy uzyciu terminala na gita.
